@@ -1,8 +1,20 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Nataliya&fontSize=90"/>
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/nataliyakarmarkar/">
+  <img height="50" src="https://github.com/nataliya-a/nataliya-a/assets/111943204/4363d016-2069-48a6-b781-9a7b6029b97f"/>
+</a>
+<a href="https://www.linkedin.com/in/nataliyakarmarkar/">
+  <img height="50" src="https://github.com/nataliya-a/nataliya-a/assets/111943204/e4f3066b-33ed-40a8-b0a0-adc7fb9b0494"/>
+</a>
+</p>
+
 
 <!--
 **nataliya-a/nataliya-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+_custom_gradient&color=0:e9d1e3,100:d4c8ec
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
