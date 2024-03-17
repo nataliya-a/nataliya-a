@@ -41,6 +41,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=urrpvw1e98z4rw5vhtsxbclqt&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+  ![Snake animation](https://github.com/nataliya-a/nataliya-a/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
  
 </div>
