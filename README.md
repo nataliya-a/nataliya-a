@@ -20,7 +20,7 @@
  </br>
 </br>
  
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/nataliya-a/nataliya-a/blob/output/github-contribution-grid-snake.svg)
 </div>
 <!--
 **nataliya-a/nataliya-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
